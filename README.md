@@ -7,6 +7,7 @@ There Are 3 Versions:
 1) Server.py : It Is Basically LAN Chat Application Written In Python.
 2) Server_Log.py : It Is Base Version LAN Chat Application Written In Python With Log Features, Means All The Chats Will Be Saved as the LOG in the Hard Drive.
 3) Server_Multi.py : It Is Base Version LAN Chat Application Written In Python With Multi Threading Support For Better Performance.
+4) Client_TCP.py & Server_TCP.py is TCP Protocol Based Chat Program. With Good Features. In This Both The End Can Send & Recieve Message. 
 
 That's All.
 
